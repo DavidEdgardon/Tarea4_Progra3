@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Evaluador.cpp
+Evaluador.h
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Evaluador.h
+
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Evaluador.h
+Mascota.h
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Mascota.h
+iostream
+-
+queue
+-
+
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Mascota.cpp
+Mascota.h
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Mascota.h
+
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Mascota.h
+iostream
+-
+list
+-
+fstream
+-
+
+C:/Users/ASUS/CLionProjects/tarea4_progra3/main.cpp
+Mascota.h
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Mascota.h
+Evaluador.h
+C:/Users/ASUS/CLionProjects/tarea4_progra3/Evaluador.h
+list
+-
+iostream
+-
+fstream
+-
+string.h
+-
+

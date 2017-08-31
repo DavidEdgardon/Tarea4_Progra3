@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/tarea4_progra3/cmake-build-debug/CMakeFiles/tarea4_progra3.dir
+C:/Users/ASUS/CLionProjects/tarea4_progra3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/tarea4_progra3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
